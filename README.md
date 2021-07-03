@@ -4,15 +4,15 @@ Copy the code https://github.com/jyothishankit/soduko-solver/blob/master/SodukoS
 
 Give the input of an unsolved soduko, like below:
 
-004050000<br/ >
-900734600<br/ >
-003021049<br/ >
-035090480<br/ >
-090000003<br/ >
-076010920<br/ >
-310970200<br/ >
-009182003<br/ >
-000060100<br/ >
+004050000
+900734600
+003021049
+035090480
+090000003
+076010920
+310970200
+009182003
+000060100
 
 Then run the cpp code. The output would be the solution of the soduko.
 
